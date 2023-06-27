@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I am Rafi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 My Portfolio [https://mruz4478.web.app/home](https://mruz4478.web.app/home)
 
