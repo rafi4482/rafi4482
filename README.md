@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rafi</h1>
-<h3 align="center">A passionate frontend developer and data scientist from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Rafi Uz Zaman</h1>
+<h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Machine learning models**
+- 🔭 I’m currently working on **Data analytics**
 
-- 🌱 I’m currently learning **Machine learning with Python**
+- 🌱 I’m currently learning **Machine learning and Deep learning using Python**
 
-- 💬 Ask me about **React Js , Python**
+- 💬 Ask me about **Data visualization**
 
 - 📫 How to reach me **rafi.kazla@gmail.com**
 
