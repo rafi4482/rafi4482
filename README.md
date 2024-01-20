@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data visualization**
 
-- 📫 How to reach me **rafi.kazla@gmail.com**
+- 📫 How to reach me **zamanmdrafiuz4582@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
